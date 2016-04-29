@@ -52,7 +52,7 @@ Currently it is updated to Android 6.0.1.
 
 # GAPPS
 
-- The Open GApps Project [ARM64] (Racommended) [DOWNLOAD](http://opengapps.org/) 
+- The Open GApps Project (Racommended) [DOWNLOAD](http://opengapps.org/) 
 
 # INSTALLATION INSTRUCTIONS:
 
@@ -87,10 +87,10 @@ Currently it is updated to Android 6.0.1.
 
 # SOURCE CODE:
 
-Source Code RR:  [Github Resurrection Remix](https://github.com/ResurrectionRemix) 
-Source Code CM:  [Github Cyanogenmod](https://github.com/CyanogenMod) 
-Source Code OMNI: [Github OmniRom](https://github.com/omnirom/) 
-Source Code SLIM:  [Github SlimRoms](https://github.com/SlimRoms/) 
+- Source Code RR:  [Github Resurrection Remix](https://github.com/ResurrectionRemix) 
+- Source Code CM:  [Github Cyanogenmod](https://github.com/CyanogenMod) 
+- Source Code OMNI: [Github OmniRom](https://github.com/omnirom/) 
+- Source Code SLIM:  [Github SlimRoms](https://github.com/SlimRoms/) 
 
 # THANKS:
 
@@ -103,5 +103,7 @@ Source Code SLIM:  [Github SlimRoms](https://github.com/SlimRoms/)
 - Omni Team
 - Slim Team
 
-[XDA](http://forum.xda-developers.com/zenfone-2-laser/development/rom-resurrection-remix-m-t3355391) 
+# XDA
+
+- [XDA](http://forum.xda-developers.com/zenfone-2-laser/development/rom-resurrection-remix-m-t3355391) 
 
