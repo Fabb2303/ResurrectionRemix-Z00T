@@ -38,8 +38,8 @@ Currently it is updated to Android 6.0.1.
 
 # CHANGELOG
 
-- //
-- //
+- [Cyanogenmod Z00T Changelog](https://github.com/Fabb2303/ResurrectionRemix-M-Z00T/blob/master/CM_changelog_Z00L.md)
+- [Resurrection Remix Changelog](https://github.com/Fabb2303/ResurrectionRemix-M-Z00T/blob/master/RR_Changelog.md)
 
 # DOWNLOAD
 
