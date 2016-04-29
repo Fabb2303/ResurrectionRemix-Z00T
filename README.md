@@ -36,8 +36,72 @@ Currently it is updated to Android 6.0.1.
 - [RESURRECTION REMIX FEATURES](http://www.resurrectionremix.com/#features)
 - [RESURRECTION REMIX WEBSITE](http://resurrectionremix.com/)
 
+# CHANGELOG
+
+- //
+- //
+
+# DOWNLOAD
+
+- //
+
 # TWRP
 
-- TWRP Official Z00L  [Download](https://dl.twrp.me/Z00T/)
+- TWRP Official Z00T  [Download](https://dl.twrp.me/Z00T/)
 - [XDA Official Project](http://forum.xda-developers.com/zenfone-2-laser/orig-development/recovery-twrp-3-0-0-0-touch-recovery-t3317513)
+
+# GAPPS
+
+- The Open GApps Project [ARM64] (Racommended) [DOWNLOAD](http://opengapps.org/) 
+
+# INSTALLATION INSTRUCTIONS:
+
+- Download the latest build
+- Download Gapps
+- Take a nandroid backup
+- Recommended - Full wipe and factory reset
+- Flash ROM using latest ClockworkMod or TWRP recovery
+- Flash Gapps
+- Reboot
+- Enjoy!
+
+# UPDATE INSTRUCTIONS:
+
+- Download the latest build of Resurrection Remix ROM
+- Take a nandroid backup
+- Flash ROM using ClockworkMod or TWRP recovery
+- Flash Gapps
+- Wipe cache
+- Wipe dalvik cache
+- Reboot
+- Enjoy!
+
+# UPDATE INSTRUCTIONS (OTA):
+
+- Settings>Configurations>Updates
+- Check update
+- Download ROM
+- Flash ROM using ClockworkMod or TWRP recovery
+- Reboot
+- Enjoy!
+
+# SOURCE CODE:
+
+Source Code RR:  [Github Resurrection Remix](https://github.com/ResurrectionRemix) 
+Source Code CM:  [Github Cyanogenmod](https://github.com/CyanogenMod) 
+Source Code OMNI: [Github OmniRom](https://github.com/omnirom/) 
+Source Code SLIM:  [Github SlimRoms](https://github.com/SlimRoms/) 
+
+# THANKS:
+
+- LuK1337
+- luca020400
+- sarath21
+- Asus
+- RR Team
+- CM Team
+- Omni Team
+- Slim Team
+
+[XDA](http://forum.xda-developers.com/zenfone-2-laser/development/rom-resurrection-remix-m-t3355391) 
 
