@@ -1,4 +1,4 @@
- # Cyanogenmod 13 Z00L Changelog
+ #Cyanogenmod 13 Z00L Changelog
  
 ### cm-13.0-20160429-NIGHTLY-Z00T.zip
 - msm8916-common: Add init.qcom.factory.sh script (android_device_asus_msm8916-common)
