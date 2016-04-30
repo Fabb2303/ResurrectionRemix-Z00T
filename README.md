@@ -54,7 +54,7 @@ Currently it is updated to Android 6.0.1.
 
 - The Open GApps Project (Racommended) [DOWNLOAD](http://opengapps.org/) 
 
-# INSTALLATION INSTRUCTIONS:
+# INSTALLATION INSTRUCTIONS
 
 - Download the latest build
 - Download Gapps
@@ -65,7 +65,7 @@ Currently it is updated to Android 6.0.1.
 - Reboot
 - Enjoy!
 
-# UPDATE INSTRUCTIONS:
+# UPDATE INSTRUCTIONS
 
 - Download the latest build of Resurrection Remix ROM
 - Take a nandroid backup
@@ -76,7 +76,7 @@ Currently it is updated to Android 6.0.1.
 - Reboot
 - Enjoy!
 
-# UPDATE INSTRUCTIONS (OTA):
+# UPDATE INSTRUCTIONS (OTA)
 
 - Settings>Configurations>Updates
 - Check update
@@ -85,14 +85,21 @@ Currently it is updated to Android 6.0.1.
 - Reboot
 - Enjoy!
 
-# SOURCE CODE:
+# SCREEN
+
+![S1](http://s32.postimg.org/qcj3ey2ol/Screenshot_20160409_210644_jpg_key_f_Ima63e_Wn_QP_0.jpg)
+![S2](http://s32.postimg.org/3qds27oyd/Screenshot_20160409_210721_png_key_z6_LGTk_K7_LBGh_F.png)
+![S3](http://s32.postimg.org/fojxtui39/Screenshot_20160409_210757_png_key_v2so_f_g_Zv_Sm.png)
+![S4](http://s32.postimg.org/tr5v8tnh1/Screenshot_20160409_210845_png_key_9_Xsvh_YOJNH_Zr.png)
+
+# SOURCE CODE
 
 - Source Code RR:  [Github Resurrection Remix](https://github.com/ResurrectionRemix) 
 - Source Code CM:  [Github Cyanogenmod](https://github.com/CyanogenMod) 
 - Source Code OMNI: [Github OmniRom](https://github.com/omnirom/) 
 - Source Code SLIM:  [Github SlimRoms](https://github.com/SlimRoms/) 
 
-# THANKS:
+# THANKS
 
 - LuK1337
 - luca020400
