@@ -39,12 +39,14 @@ Currently it is updated to Android 6.0.1.
 # CHANGELOG
 
 - [Cyanogenmod Z00T Changelog](http://adfoc.us/x59164668)
-- [Resurrection Remix Changelog](http://adfoc.us/x59164625)
+- [Resurrection Remix Changelog](http://adfoc.us/35577259164619)
 
 
 # DOWNLOAD
 
 - [Download last build] (http://adfoc.us/35577259156681)
+- [Download last Kernel](http://adfoc.us/35577259363311)
+
 
 # TWRP
 
@@ -90,6 +92,7 @@ Currently it is updated to Android 6.0.1.
 
 - Settings>Configurations>Updates
 - Download Kernel
+- Download and install with TWRP
 
 If you use Adaway or Similar add  adfoc.us to exceptions
 
