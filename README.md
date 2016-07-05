@@ -88,11 +88,11 @@ Currently it is updated to Android 6.0.1.
 - Reboot
 - Enjoy!
 
-# UPDATE KERNEL (OTA)
+# DONATIONS:
 
-- Settings>Configurations>Updates
-- Download Kernel
-- Download and install with TWRP
+If you appreciate my work make me a donation so I entice to do new projects. 
+If you want to thank me for my hard work click the link below 
+![DONATION LINK](https://goo.gl/MiuZl9)
 
 
 # SCREEN
