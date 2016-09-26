@@ -38,14 +38,13 @@ Currently it is updated to Android 6.0.1.
 
 # CHANGELOG
 
-- [Cyanogenmod Z00T Changelog](https://www.cmxlog.com/13/Z00T/)
-- [Resurrection Remix Changelog](https://gist.github.com/westcripp/8874051)
+- [Cyanogenmod Z00T Changelog](https://www.cmxlog.com/14/)
+- [Resurrection Remix Changelog](https://github.com/Fabb2303/OTA/blob/master/RR_Changelog.md)
 
 
 # DOWNLOAD
 
 - [Download last build] (https://basketbuild.com/devs/Fabb2303/ResurrectionRemix/Z00T)
-- [Download last Kernel](https://basketbuild.com/devs/Fabb2303/ResurrectionRemix/Z00T/Kernel)
 
 
 # TWRP
@@ -98,10 +97,6 @@ If you want to thank me for my hard work click the link below
 
 # SCREEN
 
-![S1](http://s32.postimg.org/qcj3ey2ol/Screenshot_20160409_210644_jpg_key_f_Ima63e_Wn_QP_0.jpg)
-![S2](http://s32.postimg.org/3qds27oyd/Screenshot_20160409_210721_png_key_z6_LGTk_K7_LBGh_F.png)
-![S3](http://s32.postimg.org/fojxtui39/Screenshot_20160409_210757_png_key_v2so_f_g_Zv_Sm.png)
-![S4](http://s32.postimg.org/tr5v8tnh1/Screenshot_20160409_210845_png_key_9_Xsvh_YOJNH_Zr.png)
 
 # SOURCE CODE
 
@@ -123,5 +118,4 @@ If you want to thank me for my hard work click the link below
 
 # XDA
 
-- [XDA](forum.xda-developers.com/zenfone-2-laser/development/rom-resurrection-remix-m-t3355391)
 
