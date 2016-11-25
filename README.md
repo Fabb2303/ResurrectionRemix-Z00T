@@ -1,4 +1,4 @@
-#  Unofficial Resurrection Remix Marshmallow (Z00T) 
+# Resurrection Remix Marshmallow (Z00T) 
 
 ![Z00T_phone](https://wiki.cyanogenmod.org/images/thumb/0/05/Z00T.png/150px-Z00T.png)
 
