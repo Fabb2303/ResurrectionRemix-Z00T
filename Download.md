@@ -1,4 +1,4 @@
-# Resurrection Remix M for Z00T
+# Resurrection Remix for Z00T
 
 ## &#x1F534; Download Links &#x1F534;
 
