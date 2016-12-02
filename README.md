@@ -1,4 +1,4 @@
-#  Unofficial Resurrection Remix Marshmallow (Z00T) 
+#  Resurrection Remix Nougat (Z00T) 
 
 ![Z00T_phone](https://wiki.cyanogenmod.org/images/thumb/0/05/Z00T.png/150px-Z00T.png)
 
@@ -31,20 +31,20 @@ Copyright 2016 - The CyanogenMod Project.
 
 Resurrection Remix ROM is based on AOKP, CM, SlimROMs creating a combination of performance power customization and new features on your device!
 It is one of the most stable ROM, customizable and updated.
-Currently it is updated to Android 6.0.1.
+Currently it is updated to Android 7.1.
 
 - [RESURRECTION REMIX FEATURES](http://www.resurrectionremix.com/#features)
 - [RESURRECTION REMIX WEBSITE](http://www.resurrectionremix.com)
 
 # CHANGELOG
 
-- [Cyanogenmod Z00T Changelog](https://www.cmxlog.com/14/)
+- [Cyanogenmod Z00T Changelog](https://www.cmxlog.com/14.1/Z00T)
 - [Resurrection Remix Changelog](https://github.com/Fabb2303/OTA/blob/master/RR_Changelog.md)
 
 
 # DOWNLOAD
 
-- [Download last build] (https://basketbuild.com/devs/Fabb2303/ResurrectionRemix/Z00T)
+- [Download last build] (https://github.com/Fabb2303/ResurrectionRemix-Z00T/blob/master/Download.md)
 
 
 # TWRP
@@ -109,7 +109,6 @@ If you want to thank me for my hard work click the link below
 
 - LuK1337
 - luca020400
-- sarath21
 - Asus
 - RR Team
 - CM Team
@@ -118,4 +117,4 @@ If you want to thank me for my hard work click the link below
 
 # XDA
 
-
+http://forum.xda-developers.com/zenfone-2-laser/development/rom-resurrection-remix-n-t3509698
