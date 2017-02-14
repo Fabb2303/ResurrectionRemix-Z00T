@@ -38,9 +38,8 @@ Currently it is updated to Android 7.1.
 
 # CHANGELOG
 
-- [Full Changelog] (https://github.com/Fabb2303/OTA/blob/master/FullChangelog.mkdn)
+- [Full Changelog] (https://github.com/Fabb2303/OTA/blob/master/CHANGELOG.mkdn)
 - [Cyanogenmod Z00T Changelog](https://www.cmxlog.com/14.1/Z00T)
-- [Resurrection Remix Changelog](https://github.com/Fabb2303/OTA/blob/master/RR_Changelog.md)
 
 
 # DOWNLOAD
